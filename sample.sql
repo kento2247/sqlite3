@@ -52,13 +52,13 @@ insert into music values (209, 'Odo',300, 310, 1, 1);
 insert into album values (103, 'Idol - Single', 312, 'ANIME', 2023, 404);
 insert into company values (404, 'YOASOBI', 'JP');
 insert into artist values (311, 'Ayase', 312);
-insert into artist values (312, 'YOASOBI', 0);
+insert into artist values (312, 'YOASOBI', 312);
 insert into track values (103, 1, 210, 1);
 insert into music values (210, 'Idol', 312, 311, 0, 0);
 
 insert into album values (104, 'Kessoku Band', 313, 'ANIME', 2022, 406);
 insert into company values (406, 'Aniplex Inc.', 'JP');
-insert into artist values (313, 'kessoku band', 0);
+insert into artist values (313, 'kessoku band', 313);
 insert into artist values (314, 'otoha', 0);
 insert into artist values (315, 'Masamichi Nagai', 0);
 insert into artist values (316, 'Maguro Taniguchi', 0);
@@ -100,7 +100,7 @@ insert into music values (224, 'Rockn'' Roll, Morning Light Falls on You', 313, 
 
 insert into album values (105, 'What a Wonderful Dream!!', 324, 'ANIME', 2022, 407);
 insert into company values (407, 'Lantis', 'JP');
-insert into artist values (324, 'Liella!', 0);
+insert into artist values (324, 'Liella!', 324);
 insert into artist values (325, 'Yasuhiro Obata', 0);
 insert into artist values (326, 'FUWARI', 0);
 insert into artist values (327, 'Keke Tang (CV: Liyuu)', 324);
